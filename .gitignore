@@ -1,0 +1,4 @@
+secrets.h
+config
+*.FCBak
+.venv
