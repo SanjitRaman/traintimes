@@ -1,0 +1,10 @@
+certifi==2025.4.26
+charset-normalizer==3.4.2
+configparser==7.2.0
+DateTime==5.5
+idna==3.10
+pytz==2025.2
+requests==2.32.3
+setuptools==80.9.0
+urllib3==2.4.0
+zope.interface==7.2
