@@ -2,6 +2,8 @@
 
 A project to display live UK train departure board information for a specific station and destination, both on a Python terminal and on an ESP32-powered OLED hardware display.
 
+![TrainTimes hardware enclosure](images/cad.png)
+
 ## Features
 
 - Fetches live train departure data from the [raildata.org.uk](https://raildata.org.uk/) API.
